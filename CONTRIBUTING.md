@@ -56,7 +56,11 @@ Good pull requests - patches, improvements, new features - are a fantastic help.
 
 If you're looking for a way to contribute, you can scan through the existing issues for something to work on.
 
-
+1. Fork this project repository
+2. Clone your fork
+3. Create a branch
+4. Make your changes and push those changes to GitHub
+5. Create a pull request
 
 ## Licence
 
@@ -68,4 +72,10 @@ Thank you for investing your time in contributing to this project!
 
 ## Acknowledgements
 
+This document draws heavily on these good examples of contribution guidelines:
 
+- [GitHub docs contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+- [Contributing to Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+- [Contributing to VS Code](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
+- [Contributing to Bootstrap](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md)
+- [How to contribute to Ruby on Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md)
