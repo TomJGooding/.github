@@ -6,6 +6,18 @@ Please take a moment to read the following set of contribution guidelines, to he
 
 This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
+## Table of Contents
+
+- [New Contributor Guide](#new-contributor-guide)
+- [How Can I Contribute?](#how-can-i-contribute)
+- [Reporting Bugs](#reporting-bugs)
+- [Feature Requests](#feature-requests)
+- [Writing Documentation](#writing-documentation)
+- [Pull Requests](#pull-requests)
+- [Licence](#licence)
+- [Thank You!](#thank-you)
+- [Acknowledgements](#acknowledgements)
+
 ## New Contributor Guide
 
 To get an overview of this project, read the [README](README.md). Here are some resources from GitHub to help you get started with open source contributions:
