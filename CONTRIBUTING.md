@@ -64,7 +64,7 @@ You can help improve the documentation for this project by making them more cohe
 
 ## Pull Requests
 
-Good pull requests - patches, improvements, new features - are a fantastic help. They should remain focused in scope and avoid containing unrelated commits.
+Good pull requests - patches, improvements, new features - are a fantastic help. Please ensure that the pull request is limited to one type (bug fix, feature, docs etc.) and keep it as small as possible. You can create  multiple PRs instead of creating a huge one.
 
 If you're looking for a way to contribute, you can scan through the existing issues for something to work on.
 
@@ -73,6 +73,10 @@ If you're looking for a way to contribute, you can scan through the existing iss
 3. Create a branch
 4. Make your changes and push those changes to GitHub
 5. Create a pull request
+
+When fixing a bug or adding features, it's good practice to add a test to demonstrate your fix or new feature behaves as expected. These tests should focus on one tiny bit of functionality and prove changes are correct.
+
+If the change requires a change to the documentation, please update accordingly.
 
 ## Licence
 
@@ -90,4 +94,5 @@ This document draws heavily on these good examples of contribution guidelines:
 - [Contributing to Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 - [Contributing to VS Code](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
 - [Contributing to Bootstrap](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md)
+- [Cookiecutter PyPackage Contributing Guide](https://github.com/audreyfeldroy/cookiecutter-pypackage/blob/master/CONTRIBUTING.rst)
 - [How to contribute to Ruby on Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md)
