@@ -10,6 +10,11 @@ Please ensure that the pull request is limited to one type (bug fix, feature, do
 
 <!--- Describe your changes in detail -->
 
+<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
+- [ ] Not Completed
+- [x] Completed
+-->
+
 ## Related Issue
 
 <!--- If this pull request relates to an open issue, please link to the issue here-->
