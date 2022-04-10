@@ -74,16 +74,20 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Contributing
 
+Thank you for your interest in contributing to this project!
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-There are many ways in which you can participate in this project, for example:
+There are many ways in which you can participate in this project, including some that don't require you to write a single line of code.
 
 - Report a bug
 - Request a feature
-- Write technical documentation, for users and contributors
+- Write documentation, for users and contributors
 - Contribute to the codebase
 
-If you're looking for a way to contribute, you can scan through the existing issues for something to work on. When ready, check out the Contributing Guidelines for detailed instructions.
+If you're looking for a way to contribute, you can scan through the existing issues for something to work on.
+
+Please take a moment to read the [Contribution Guidelines](CONTRIBUTING.md), to help make the process easy and effective for everyone involved.
 
 ## Contributors
 
