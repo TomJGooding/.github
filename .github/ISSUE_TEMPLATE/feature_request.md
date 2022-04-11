@@ -1,20 +1,37 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[FEAT] <title>'
+labels: enhancement
 assignees: ''
 
 ---
+  
+### Is there an existing issue for this?
+ 
+<!--- Before you create a new feature request, please do a search in open issues to check if the feature has already been suggested. -->
+<!--- Put an `x` in the box below -->
+ 
+- [ ] I have searched the open issues
+  
+### Description of the feature or enhancement
+ 
+<!-- A clear and concise description of the feature or enhancement you would like. -->
+  
+### Context
+  
+<!--- Why is this feature or enhancement important to you How would you use it? -->
+<!--- How can it benefit other users? -->  
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Alternatives considered
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+<!--- A clear and concise description of any alternative solutions or features you've considered. -->
+  
+### Possible implementation
+  
+<!--- Not obligatory, but suggest an idea for implementing this feature or enhancement -->  
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Additional context
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+<!--- Add any other context or screenshots about the feature request here. -->
+  
