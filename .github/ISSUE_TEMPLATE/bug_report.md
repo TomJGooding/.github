@@ -1,38 +1,41 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: '[BUG] <title>'
+labels: bug
 assignees: ''
 
 ---
+ 
+### Is there an existing issue for this?
+ 
+<!--- Before you create a new bug report, please do a search in open issues to check if the issue has already been reported. -->
+<!--- Put an `x` in the box below -->
+ 
+- [ ] I have searched the open issues 
+ 
+### Description of the bug
+ 
+<!-- A clear and concise description of what the bug is. -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
+### To Reproduce
+ 
+<!--- Steps to reproduce the behavior -->
+ 
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Expected behavior
+ 
+<!--- A clear and concise description of what you expected to happen. --> 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Screenshots
+ 
+<!--- A clear and concise description of what you expected to happen. --> 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Additional context
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+<!--- Add any other context about the problem here. -->  
 
-**Additional context**
-Add any other context about the problem here.
