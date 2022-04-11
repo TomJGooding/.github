@@ -19,7 +19,7 @@ assignees: ''
 
 ### Context
 
-<!--- Why is this feature or enhancement important to you How would you use it? -->
+<!--- Why is this feature or enhancement important to you? How would you use it? -->
 <!--- How can it benefit other users? -->
 
 ### Alternatives considered
